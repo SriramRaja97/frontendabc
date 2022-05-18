@@ -1,0 +1,149 @@
+#f1{
+    font-style: italic;
+    padding-left: 1000px;
+    block-size: 0px;
+    font-size: medium;
+    padding-top: 15px;
+    
+   
+
+}
+#f1:hover{
+    cursor: pointer;
+    background-color: rgb(71, 71, 138);
+}
+.navbar-nav{
+    margin-left: 1000px;
+}
+.navbar-nav {
+    margin-left: 900px;
+    position: sticky;
+
+  }
+
+  .navbar-brand {
+    position: sticky;
+
+  }
+  #sr b{
+    opacity: 0.4;
+   
+  }
+  #sr p{
+       padding-right: 65px;
+  }
+  #sr1  b{
+    opacity: 0.4;
+
+  }
+  #sr1 p{
+    padding-right: 65px;
+  }
+  
+  #sr2  b{
+    opacity: 0.4;
+    
+  }
+  #sr2 p{
+    padding-right: 65px;
+  }
+  #sr3  b{
+    opacity: 0.4;
+   
+  }
+  #sr3 p{
+    padding-right: 65px;
+    
+  }
+  #sri #ar1{
+      position:sticky;
+  }
+  #nav1{
+      position: sticky;
+  }
+  #bu{
+      padding: 10px;
+      height: 50px;
+      width: 250px;
+      background: rgb(244, 241, 241);
+  }
+  #bu1{
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+    background: rgb(244, 241, 241);
+  }
+  #bu2{
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+    background: rgb(244, 241, 241);
+  }
+  #bu3{
+    padding: 10px;
+    height: 50px;
+    width: 250px;
+    background: rgb(244, 241, 241);
+  }
+  #p1{
+      padding-left: 30px;
+  }
+ #Sem{
+     background-color: rgb(37, 32, 32);
+     color: azure;
+ }
+ #fr{
+    
+     height: 500px;
+     width: 800px;
+ }
+ #fo{
+     color: rgb(56, 151, 67);
+     text-align: right;
+     padding-right: 50px; }
+
+     #img1{
+         border-radius: 10px;
+     }
+     #img2{
+        border-radius: 10px;
+    }
+    #img3{
+        border-radius: 10px;
+    }
+    #img4{
+        border-radius: 10px;
+    }
+    #img5{
+        border-radius: 10px;
+    }
+    #img6{
+        border-radius: 10px;
+    }
+    #img7{
+        border-radius: 10px;
+    }
+    #img8{
+        border-radius: 10px;
+    }
+    #im1{
+        border-radius: 50px;
+    }
+    #im2{
+        border-radius: 50px;
+    }
+    #im3{
+        border-radius: 50px;
+    }
+    #im4{
+        border-radius: 50px;
+    }
+    .header.container-fluid{
+      box-shadow:15px 9px 10px ;
+    }
+   .topleft{
+      position: absolute;
+      color: aliceblue;
+      background-color: rgb(43, 40, 40);
+   }
+   
